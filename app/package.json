@@ -1,0 +1,23 @@
+{
+  "name": "demo_social_media",
+  "version": "1.0.0",
+  "description": "A demo social media application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilfullstack/demo_social_media.git"
+  },
+  "keywords": [
+    "social",
+    "media"
+  ],
+  "author": "Sahil Sarpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilfullstack/demo_social_media/issues"
+  },
+  "homepage": "https://github.com/sahilfullstack/demo_social_media#readme"
+}
