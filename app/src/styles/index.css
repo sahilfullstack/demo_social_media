@@ -1,0 +1,42 @@
+body {	
+  margin: 0;
+  padding: 0;
+  background: rgb(230,230,230);
+  
+  color: rgb(50,50,50);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 112.5%;
+  line-height: 1.6em;
+}
+
+
+.jumbotron {
+  padding: 1rem 1rem !important;
+}
+
+.h1, h1 {
+  font-size: 2.0rem !important;
+}
+
+
+.card-body {
+  padding: 0.50rem !important;
+}
+
+.h5, h5 {
+ font-size: 1rem !important;
+}
+
+.card-title {
+  margin-bottom: 0.2rem !important;
+}
+
+.card-a {
+  width: 7rem; 
+  display: inline-block !important;
+}
+
+a.custom-card,
+a.custom-card:hover {
+  color: inherit !important;
+}

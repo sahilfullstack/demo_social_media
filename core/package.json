@@ -4,7 +4,8 @@
   "description": "A demo social media application.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/www.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,34 @@
   "bugs": {
     "url": "https://github.com/sahilfullstack/demo_social_media/issues"
   },
-  "homepage": "https://github.com/sahilfullstack/demo_social_media#readme"
+  "homepage": "https://github.com/sahilfullstack/demo_social_media#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "canvas": "^2.0.1",
+    "compression": "^1.7.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1",
+    "extend": "^3.0.2",
+    "joi": "^14.0.2",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.13",
+    "method-override": "^3.0.0",
+    "nodemailer": "^4.6.8",
+    "nodemon": "^1.18.4",
+    "pg": "^7.5.0",
+    "pg-hstore": "^2.3.2",
+    "sendgrid": "^5.2.3",
+    "sequelize": "^5.15.1",
+    "sequelize-cli": "^5.2.0",
+    "swagger-jsdoc": "^3.2.3",
+    "swagger-model-validator": "^3.0.5",
+    "swagger-ui-express": "^4.0.1",
+    "uuid": "^3.3.2",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.3.3"
+  }
 }
