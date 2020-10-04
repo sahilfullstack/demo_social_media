@@ -60,4 +60,22 @@ This is a dummy project for Social Media.
 3. Unit test has been written for App.js. Rest coverage & improvent is required to be done.
 4. Bootstrap is used for handling structure of UI.
 
+Attaching Some attachments
+
+
+# UI - listing the users 
+![alt text](https://i.postimg.cc/CLq8jWvT/listing-users.png)
+
+# Fetching Friends
+![alt text](https://i.postimg.cc/Kzjk4VKW/fetching-friends.png)
+
+# Fetching Friends of Friends
+![alt text](https://i.postimg.cc/wxt2G4WF/fetching-friends-of-friends.png)
+
+# swagger 
+![alt text](https://i.postimg.cc/nzSmkZbZ/swagger.png)
+
+# exposed apis
+![alt text](https://i.postimg.cc/4dfvPBYv/apis-exposed.png)
+
 Please feel free to contact me :star:  happy programming :v: 
